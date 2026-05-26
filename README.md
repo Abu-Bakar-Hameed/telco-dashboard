@@ -1,6 +1,6 @@
 # 📡 Telco Customer Churn Prediction & ML Comparison Dashboard
 
-> **Live App:** 🚀 [Launch Dashboard](https://your-app-link.streamlit.app) ← _Replace with your deployed URL_
+> **Live App:** 🚀 [Launch Dashboard](https://telco-dashboard-4pbae72t38nq8exjzczna8.streamlit.app/) LIVE App You Can See
 
 
 ## 🧭 Project Overview
@@ -28,7 +28,7 @@ In the telecom industry, customer churn (i.e., subscribers canceling their servi
 
 | Property | Details |
 |---|---|
-| **Source** | [Telco Customer Churn — Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) |
+| **Source** | [Telco Customer Churn — Kaggle](https://github.com/Abu-Bakar-Hameed/telco-dashboard) |
 | **Total Records** | 7,043 rows |
 | **Total Features** | 21 columns |
 | **Target Variable** | `Churn` (Yes / No) |
@@ -139,9 +139,7 @@ The interactive web application is divided into **6 sections**:
 The application is deployed publicly and accessible via the link at the top of this README.
 
 **Supported Platforms:**
-- [Streamlit Community Cloud](https://streamlit.io/cloud) ← Recommended (free, GitHub sync)
-- [Render](https://render.com)
-- [Hugging Face Spaces](https://huggingface.co/spaces)
+- https://telco-dashboard-4pbae72t38nq8exjzczna8.streamlit.app/ ← Recommended (free, GitHub sync)
 
 ---
 
@@ -153,7 +151,7 @@ The application is deployed publicly and accessible via the link at the top of t
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/your-username/telco-churn-prediction.git
+git clone https://github.com/Abu-Bakar-Hameed/telco-dashboard.git
 cd telco-churn-prediction
 ```
 
@@ -189,9 +187,9 @@ Execute notebooks in order: `01_EDA` → `02_Preprocessing` → `03_Modeling_and
 
 ## 👤 Author
 
-**Your Name**
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/your-username)
+**Abu Bakar Hameed**
+📧 abubakarhameedpirzado@gmail.com
+🔗 www.linkedin.com/in/abu-bakar-hameed · https://github.com/Abu-Bakar-Hameed
 
 ---
 
