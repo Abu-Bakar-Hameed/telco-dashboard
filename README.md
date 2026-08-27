@@ -1,6 +1,6 @@
 # 📡 Telco Customer Churn Prediction & ML Comparison Dashboard
 
-> **Live App:** 🚀 [Launch Dashboard](https://telco-dashboard-4pbae72t38nq8exjzczna8.streamlit.app/) LIVE App You Can See
+> **Live App:** 🚀 [Launch Dashboard](https://telco-dashboard-3bfjmvq9x9wd7nfqz4zuhz.streamlit.app/) LIVE App You Can See
 
 
 ## 🧭 Project Overview
@@ -99,7 +99,6 @@ Six classification algorithms were implemented, trained, and evaluated:
 | 3 | **Random Forest** | Ensemble (Bagging) | Reduces variance & overfitting |
 | 4 | **K-Nearest Neighbors (KNN)** | Instance-based | Local spatial density classification |
 | 5 | **Support Vector Machine (SVM)** | Margin-based | Maximum-margin hyperplane optimization |
-| 6 | **XGBoost** | Ensemble (Boosting) | High accuracy on tabular data |
 
 > 🔬 **Optional Extensions:** AdaBoost, CatBoost, LightGBM were also explored for additional benchmarking.
 
@@ -139,7 +138,7 @@ The interactive web application is divided into **6 sections**:
 The application is deployed publicly and accessible via the link at the top of this README.
 
 **Supported Platforms:**
-- https://telco-dashboard-4pbae72t38nq8exjzczna8.streamlit.app/ ← Recommended (free, GitHub sync)
+- https://telco-dashboard-3bfjmvq9x9wd7nfqz4zuhz.streamlit.app/ ← Recommended (free, GitHub sync)
 
 ---
 
